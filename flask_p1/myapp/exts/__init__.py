@@ -1,0 +1,1 @@
+from myapp.exts.extends import db,api

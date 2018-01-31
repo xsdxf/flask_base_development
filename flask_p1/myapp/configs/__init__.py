@@ -1,0 +1,4 @@
+from myapp.configs.developmentConfig import DevelopmentConfig
+from myapp.configs.productionConfig import ProductionConfig
+from myapp.configs.testingConfig import TestingConfig
+from myapp.configs.defaultConfig import RegexConverter
